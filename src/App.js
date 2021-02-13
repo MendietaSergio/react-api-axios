@@ -20,8 +20,11 @@ class App extends Component {
       <div className="container">
         <h1 className="text-center mt-5">Peliculas de Marvel</h1>
         <div className="row">
+          <h3>prueba</h3>
           {filmes.map(filme =>
+              
             <div className="col-md-3 mt-5">
+              <h3>Entro</h3>
               <img src={filme.show.image.medium} className="card-img-top" data-toggle="modal" data-target={'#exampleModal'+ filme.show.id}  />
               <div className="card-body">
                 <h5 className="card-title">{filme.show.name}</h5>
