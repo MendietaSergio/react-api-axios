@@ -2,6 +2,7 @@ import './App.css';
 import React, {Component} from 'react';
 import api from './api';
 
+
 class App extends Component{
   
   state = {
@@ -20,7 +21,16 @@ class App extends Component{
         <h1 className="text-center mt-5">Peliculas de Marvel</h1>
         <div className="row">
             {filmes.map(filme =>
-              <h5>{filme.show.name}</h5>
+              <div className="col-md-3 mt-5">
+                <img src={filme.show.image.medium} className="card-img-top"/>
+                <div className="card-body">
+                    <h5 className="card-title">{filme.show.name}</h5>
+                    <p className="card-text module line-clamp">{filme.show.summary}</p>
+                    <div className="text-center">
+                        <a href={filme.show.url} className="btn-primary" target="_blank">Ver detalle</a>
+                    </div>
+                </div>
+              </div>
             )}
         </div>
       
