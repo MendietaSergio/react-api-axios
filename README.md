@@ -20,3 +20,7 @@ Tiene instalado las siguientes dependencias:
   
   • Popper
   
+Al hacer click en alguna de las imagenes, se muestra un modal con el titulo y la imagen original.
+
+El botón "Ver detalles" te redirecciona a la página oficial con sus detalles, esta en proceso clonar
+la misma página (ver detalles).
