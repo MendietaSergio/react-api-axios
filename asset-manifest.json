@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react-api-axios/static/css/main.61582c47.chunk.css",
-    "main.js": "/react-api-axios/static/js/main.01bfd4bf.chunk.js",
-    "main.js.map": "/react-api-axios/static/js/main.01bfd4bf.chunk.js.map",
+    "main.css": "/react-api-axios/static/css/main.9cb703f9.chunk.css",
+    "main.js": "/react-api-axios/static/js/main.ca38887a.chunk.js",
+    "main.js.map": "/react-api-axios/static/js/main.ca38887a.chunk.js.map",
     "runtime-main.js": "/react-api-axios/static/js/runtime-main.23452f63.js",
     "runtime-main.js.map": "/react-api-axios/static/js/runtime-main.23452f63.js.map",
     "static/css/2.150d169a.chunk.css": "/react-api-axios/static/css/2.150d169a.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.e351f3e2.chunk.js.map": "/react-api-axios/static/js/2.e351f3e2.chunk.js.map",
     "index.html": "/react-api-axios/index.html",
     "static/css/2.150d169a.chunk.css.map": "/react-api-axios/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.61582c47.chunk.css.map": "/react-api-axios/static/css/main.61582c47.chunk.css.map",
+    "static/css/main.9cb703f9.chunk.css.map": "/react-api-axios/static/css/main.9cb703f9.chunk.css.map",
     "static/js/2.e351f3e2.chunk.js.LICENSE.txt": "/react-api-axios/static/js/2.e351f3e2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.23452f63.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.e351f3e2.chunk.js",
-    "static/css/main.61582c47.chunk.css",
-    "static/js/main.01bfd4bf.chunk.js"
+    "static/css/main.9cb703f9.chunk.css",
+    "static/js/main.ca38887a.chunk.js"
   ]
 }
